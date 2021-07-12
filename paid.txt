@@ -1,1 +1,1 @@
-{"version":"1","link":"https//google.com}
+{"V1":"1","link":"https//google.com}
